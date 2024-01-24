@@ -11,7 +11,7 @@ You are allowed to use this site as an example file or template to build your ow
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## History
-N/A (change later)
+Added text stylization, including an assortment of colouration, background elements, images, and general themeing to the QU3NCH! Brand.
 ## Credits
 Xaviere Hanbury
 ## License
