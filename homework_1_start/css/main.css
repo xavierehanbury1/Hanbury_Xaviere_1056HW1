@@ -15,11 +15,11 @@
 }
 
 #mainContent {
-        display: grid;
-        grid-template-columns: repeat(4, 85px);
-        grid-column-gap: 16px;
-        padding-left: 20px;
-        padding-right: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 85px);
+    grid-column-gap: 16px;
+    padding-left: 18px;
+    padding-right: 20px;
 }
 
 article {
@@ -29,8 +29,96 @@ article {
 img {
     margin-top: 20px;
     margin-bottom: 30px;
+    width: 387px;
 }
 
-img{
-    width: 387px;
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-style:normal;
+    font-weight:normal;
     }
+
+p {
+    margin-bottom: 20px;
+}
+
+.mytitle {
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: orange;
+    border: 10;
+    text-shadow: 2px 2px 0 black;
+    font-weight: 900;
+}
+
+.sarah {
+    color: burlywood;
+    font-size: 16px;
+
+}
+
+.quench {
+    outline-color: orange;
+    outline-style: solid;
+    outline-width: 1px;
+    font-weight: 900;
+}
+
+.firstimage {
+
+    margin: 0%;
+    margin-top: 10px;
+    border-radius: 30px;
+    border: 3px orange;
+    border-style: dashed;
+
+}
+
+.secondimage {
+
+    border-radius: 30px;
+    border: 3px dashed black;
+}
+
+.thirdimage {
+
+    border-radius: 30px;
+    border: 4px dashed orange;
+}
+
+.fourthimage {
+
+    border-radius: 30px;
+    border: 3px dashed black;
+}
+
+.fifthimage {
+
+    border-radius: 30px;
+    border: 4px dashed orange;
+}
+
+.sixthimage {
+    border-radius: 30px;
+    border: 3px dashed black;
+}
+
+.seventhimage {
+    border-radius: 30px;
+    border: 4px dashed orange;
+}
+
+.eighthimage {
+    border-radius: 30px;
+    border: 3px dashed black;
+    margin-top:20px;
+}
+
+.ninthimage {
+    margin: 0%;
+    border: 4px dashed orange;
+    margin-top:20px;
+    border-radius: 30px;
+}
+
